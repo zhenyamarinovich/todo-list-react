@@ -14,11 +14,11 @@
   user-select: none;
 }
 
-.todo-list-item.done .todo-list-item-label {
+.done{
   text-decoration: line-through;
 }
 
-.todo-list-item.important .todo-list-item-label {
+.important {
   font-weight: bold;
   color: steelblue;
 }
